@@ -1,0 +1,21 @@
+{
+  "name": "capital-invest",
+  "version": "1.0.0",
+  "description": "Capital Invest - Smart Earnings Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bikes",
+    "ai",
+    "investment",
+    "rental"
+  ],
+  "author": "Capital Invest",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
